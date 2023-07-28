@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.heading{
+    border: 2px solid red;
+    text-align: center;
+    background-color: black;
+    color: red;
+    border-radius: 3px;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+}
+
+#dogInfo{
+    color: red;
+    text-align: center;
+}
+
+#catInfo{
+    color: red;
+    text-align: center;
+}
+#foxInfo{
+    color: red;
+    text-align: center;
+}
+button{
+  
+    background-color: aqua;
+    width: 150px;
+    height: 30px;
+    margin-left:100px;
+    border-radius: 8px;
+
+}
+button:hover{
+    background-color: brown;
+}
